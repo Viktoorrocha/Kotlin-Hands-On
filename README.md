@@ -7,4 +7,4 @@ Uma coleção de exemplos simples e diretos para servir como referencia e materi
 Todos os exemplos podem ser testados no site https://try.kotlinlang.org, basta digitar os códigos e executar.
 
 
-[](https://github.com/Viktoorrocha/Kotlin-Hands-On/blob/master/Hello%20World/HelloWorld.kt "Hello World")
+[Hello World](https://github.com/Viktoorrocha/Kotlin-Hands-On/blob/master/Hello%20World/HelloWorld.kt)
