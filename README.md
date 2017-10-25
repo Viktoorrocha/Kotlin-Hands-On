@@ -8,3 +8,7 @@ Todos os exemplos podem ser testados no site https://try.kotlinlang.org, basta d
 
 
 * [Hello World](https://github.com/Viktoorrocha/Kotlin-Hands-On/blob/master/Hello%20World/HelloWorld.kt)
+* [Funçoões Print e Println] (https://github.com/Viktoorrocha/Kotlin-Hands-On/blob/master/funcoes_print_%20println/function_print.kt)
+* [String Template](https://github.com/Viktoorrocha/Kotlin-Hands-On/tree/master/string_template)
+* [Variáveis Var e Val](https://github.com/Viktoorrocha/Kotlin-Hands-On/tree/master/variaveis_var_e_val)
+* [Conversão as e ls ] (https://github.com/Viktoorrocha/Kotlin-Hands-On/blob/master/conversao_as_ls/example.kt)
