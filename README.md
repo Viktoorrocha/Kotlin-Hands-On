@@ -13,3 +13,4 @@ Todos os exemplos podem ser testados no site https://try.kotlinlang.org, basta d
 * [Variáveis Var e Val](https://github.com/Viktoorrocha/Kotlin-Hands-On/tree/master/variaveis_var_e_val)
 * [Conversão as e ls](https://github.com/Viktoorrocha/Kotlin-Hands-On/tree/master/conversao_as_ls)
 * [Null Safety](https://github.com/Viktoorrocha/Kotlin-Hands-On/tree/master/Objetos_Nulos(Null%20Safety))
+* [Operador Ternário e Elvis]()
