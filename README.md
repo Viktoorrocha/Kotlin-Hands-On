@@ -14,4 +14,4 @@ Todos os exemplos podem ser testados no site https://try.kotlinlang.org, basta d
 * [Conversão as e ls](https://github.com/Viktoorrocha/Kotlin-Hands-On/tree/master/conversao_as_ls)
 * [Null Safety](https://github.com/Viktoorrocha/Kotlin-Hands-On/tree/master/Objetos_Nulos(Null%20Safety))
 * [Operador Ternário e Elvis](https://github.com/Viktoorrocha/Kotlin-Hands-On/tree/master/Operador_Tern%C3%A1rio_Elvis)
-* [Funções]()
+* [Funções](https://github.com/Viktoorrocha/Kotlin-Hands-On/tree/master/funcoes)
