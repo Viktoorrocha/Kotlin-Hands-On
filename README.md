@@ -15,3 +15,4 @@ Todos os exemplos podem ser testados no site https://try.kotlinlang.org, basta d
 * [Null Safety](https://github.com/Viktoorrocha/Kotlin-Hands-On/tree/master/Objetos_Nulos(Null%20Safety))
 * [Operador Ternário e Elvis](https://github.com/Viktoorrocha/Kotlin-Hands-On/tree/master/Operador_Tern%C3%A1rio_Elvis)
 * [Funções](https://github.com/Viktoorrocha/Kotlin-Hands-On/tree/master/funcoes)
+* [Funções - Default Arguments](https://github.com/Viktoorrocha/Kotlin-Hands-On/commit/05f4a2d8500f37aeae93d7a21bf791733e9685aa)
