@@ -17,4 +17,4 @@ Todos os exemplos podem ser testados no site https://try.kotlinlang.org, basta d
 * [Funções](https://github.com/Viktoorrocha/Kotlin-Hands-On/tree/master/funcoes)
 * [Funções - Default Arguments](https://github.com/Viktoorrocha/Kotlin-Hands-On/commit/05f4a2d8500f37aeae93d7a21bf791733e9685aa)
 * [Funções - Named Arguments](https://github.com/Viktoorrocha/Kotlin-Hands-On/commit/501f00fdffef7658319a5bff867ea5fb97b473dc)
-* [Funções - Varargs](https://github.com/Viktoorrocha/Kotlin-Hands-On/commit/501f00fdffef7658319a5bff867ea5fb97b473dc)
+* [Funções - Varargs](https://github.com/Viktoorrocha/Kotlin-Hands-On/blob/master/funcoes_varargs/example.kt)
