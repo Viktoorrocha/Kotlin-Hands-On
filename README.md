@@ -22,3 +22,8 @@ Todos os exemplos podem ser testados no site https://try.kotlinlang.org, basta d
 * [Classes](https://github.com/Viktoorrocha/Kotlin-Hands-On/blob/master/classes/example.kt)
 * [Classes - Herança](https://github.com/Viktoorrocha/Kotlin-Hands-On/blob/master/classes_heranca/example.kt)
 * [Data Classes](https://github.com/Viktoorrocha/Kotlin-Hands-On/blob/master/Data%20Classes/example.kt)
+* [Objeto Companion](https://github.com/Viktoorrocha/Kotlin-Hands-On/blob/master/Objeto_companion/example.kt)
+* [Singletons](https://github.com/Viktoorrocha/Kotlin-Hands-On/blob/master/Singletons/example.kt)
+* [Listas](https://github.com/Viktoorrocha/Kotlin-Hands-On/blob/master/Listas/example.kt)
+* [Enum](https://github.com/Viktoorrocha/Kotlin-Hands-On/blob/master/Enum/example.kt)
+* [Higher-Order Functions e Lambdas]()
