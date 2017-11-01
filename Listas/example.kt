@@ -1,4 +1,4 @@
-//Podemos utilizar um ArrayList, que eé uma lista ordenada.
+//Podemos utilizar um ArrayList, que é uma lista ordenada.
 
 val list = ArrayList<String>()
 
