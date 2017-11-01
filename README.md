@@ -20,4 +20,5 @@ Todos os exemplos podem ser testados no site https://try.kotlinlang.org, basta d
 * [Funções - Varargs](https://github.com/Viktoorrocha/Kotlin-Hands-On/blob/master/funcoes_varargs/example.kt)
 * [Tipos genéricos](https://github.com/Viktoorrocha/Kotlin-Hands-On/blob/master/tipos_genericos/example.kt)
 * [Classes](https://github.com/Viktoorrocha/Kotlin-Hands-On/blob/master/classes/example.kt)
-* [Classes - Herança]()
+* [Classes - Herança](https://github.com/Viktoorrocha/Kotlin-Hands-On/blob/master/classes_heranca/example.kt)
+* [Data Classes](https://github.com/Viktoorrocha/Kotlin-Hands-On/blob/master/Data%20Classes/example.kt)
