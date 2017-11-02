@@ -26,4 +26,8 @@ Todos os exemplos podem ser testados no site https://try.kotlinlang.org, basta d
 * [Singletons](https://github.com/Viktoorrocha/Kotlin-Hands-On/blob/master/Singletons/example.kt)
 * [Listas](https://github.com/Viktoorrocha/Kotlin-Hands-On/blob/master/Listas/example.kt)
 * [Enum](https://github.com/Viktoorrocha/Kotlin-Hands-On/blob/master/Enum/example.kt)
-* [Higher-Order Functions e Lambdas]()
+* [Higher-Order Functions e Lambdas](https://github.com/Viktoorrocha/Kotlin-Hands-On/blob/master/Higher-Order%20Functions%20e%20Lambdas/example.kt)
+* [Extensões](https://github.com/Viktoorrocha/Kotlin-Hands-On/blob/master/Extens%C3%B5es/example.kt)
+* [Coleções e lambdas: Map e Filter](https://github.com/Viktoorrocha/Kotlin-Hands-On/blob/master/Cole%C3%A7%C3%B5es_Lambdas:map_e_filter/example.kt)
+* [Funçoões Inline](https://github.com/Viktoorrocha/Kotlin-Hands-On/blob/master/Fun%C3%A7%C3%B5es%20Inline/example.kt)
+
